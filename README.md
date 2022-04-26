@@ -14,9 +14,11 @@
 ### About me:
 *  🎓 B.Sc. in Electronic Engineering 🇨🇴
 *  📚 Ph.D. Engineering Student 🇦🇷
-*  🛠 I'm currently working on image processing and machine learning algorithms
+*  🌱 I'm currently learning image processing and machine learning algorithms
+*  🔭 I’m currently working with coastal images and databases
 *  🗣 I'm fluent in B1 English and my native language is Spanish
 *  💻 I like programming in Python and I usually work with jupyter notebook (as well as Google Colab environment)
+*  💬 [Ask me](https://github.com/Alejandro-ZZ/Alejandro-ZZ/issues) about an idea or request, collaborations are always well received!
 
 ### Tools and programming languages:
 <p>
@@ -42,16 +44,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-ZZ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
