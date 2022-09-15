@@ -23,7 +23,6 @@
 ### Tools and programming languages:
 <p>
 <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="" height="40"></a>&nbsp&nbsp
-<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="" height="40"></a>&nbsp&nbsp
 <a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="" height="40" /></a>&nbsp&nbsp
 <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1024px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"></a>&nbsp&nbsp
 <a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="" height="40" /></a>&nbsp&nbsp
