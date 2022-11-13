@@ -24,8 +24,8 @@
 <p>
 <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="" height="40"></a>&nbsp&nbsp
 <a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="" height="40" /></a>&nbsp&nbsp
-<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1024px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"></a>&nbsp&nbsp
-<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="" height="40" /></a>&nbsp&nbsp
+<!-- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1024px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" height="40"></a>&nbsp&nbsp
+<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="" height="40" /></a>&nbsp&nbsp -->
 <a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/a/17/arduino.svg" alt="" height="40" /></a>&nbsp&nbsp
 <a href="https://www.autodesk.com/products/eagle/overview?term=1-YEAR&tab=subscription#what-is-eagle-" target="blank"><img align="center" src="https://peoplevine.blob.core.windows.net/files/397/business/3631/3631_logo-20200319045341.png" alt="" height="40" /></a>&nbsp&nbsp
 <a href="https://colab.research.google.com/" target="blank"><img align="center" src="https://static.javatpoint.com/tutorial/google-colab/images/google-colab.png" alt="" height="40" /></a>&nbsp&nbsp
