@@ -14,8 +14,8 @@
 ### About me:
 *  🎓 B.Sc. in Electronic Engineering 🇨🇴
 *  📚 Ph.D. Engineering Student 🇦🇷
-*  🌱 I'm currently learning image processing and machine learning algorithms
-*  🔭 I’m currently working with coastal images and databases
+*  🤖 I'm currently learning image processing and machine learning algorithms
+*  🌊 I’m currently working with coastal images and databases
 *  🗣 I'm fluent in B1 English and my native language is Spanish
 *  💻 I like programming in Python and I usually work with jupyter notebook (as well as Google Colab environment)
 *  💬 [Ask me](https://github.com/Alejandro-ZZ/Alejandro-ZZ/issues) about an idea or request, collaborations are always well received!
