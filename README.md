@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hey everyone, I'm Alejandro Zambrano 👋</h1>
+<h1 align="center">👋 Hello there! I'm Alejandro Zambrano 👋</h1>
 <p align="center">
-<img src="https://alejandrozz.pythonanywhere.com/static/images/AZ_Logo_Nuevo.png" alt="" width="200">
+<a href="https://alejandrozz.pythonanywhere.com/" target="blank"><img src="https://alejandrozz.pythonanywhere.com/static/images/AZ_Logo_Nuevo.png" alt="" width="200"></a>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/AlejandroZambranoZabaleta/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="30"></a>&nbsp&nbsp
 <a href="https://www.instagram.com/_alejo_zambrano_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="" height="30" /></a>&nbsp&nbsp
   <a href="https://www.youtube.com/channel/UCmEM8PfN1zoZYKIIK3RXchQ" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="" height="30" /></a>&nbsp&nbsp
-<a href="https://alejandrozz.pythonanywhere.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888846.png" alt="" height="30" /></a>
+<a href="https://alejandrozz.pythonanywhere.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="" height="30" /></a>
 </p>
 
 <h3 align="center"> 🦾 I'm passionate about electronics, automation and artificial intelligence 🚀</h3>
