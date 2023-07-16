@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/AlejandroZambranoZabaleta/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="30"></a>&nbsp&nbsp
 <a href="https://www.instagram.com/_alejo_zambrano_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="" height="30" /></a>&nbsp&nbsp
-  <a href="https://www.youtube.com/channel/UCmEM8PfN1zoZYKIIK3RXchQ" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="" height="30" /></a>&nbsp&nbsp
+  <a href="https://twitter.com/alejozambranoz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="" height="30" /></a>&nbsp&nbsp
 <a href="https://alejandrozz.pythonanywhere.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="" height="30" /></a>
 </p>
 
